@@ -1,0 +1,218 @@
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\ApplicationInsights.config
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\roslyn\csc.exe
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\roslyn\vbc.exe
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\Wep Api Demo.dll.config
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\Wep Api Demo.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\Wep Api Demo.pdb
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\EntityFramework.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\EntityFramework.SqlServer.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\Microsoft.AI.Web.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\Newtonsoft.Json.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\System.Net.Http.Formatting.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\System.Web.Http.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\System.Web.Http.WebHost.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\EntityFramework.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\EntityFramework.SqlServer.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\Microsoft.AI.Web.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\Newtonsoft.Json.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\System.Net.Http.Formatting.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\System.Web.Http.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\System.Web.Http.WebHost.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\obj\Debug\Wep Api Demo.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\obj\Debug\Wep Api Demo.pdb
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\obj\Debug\Wep Api Demo.csprojResolveAssemblyReference.cache
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\Thinktecture.IdentityModel.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\Thinktecture.IdentityModel.pdb
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\Thinktecture.IdentityModel.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\System.Web.Cors.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\System.Web.Http.Cors.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\Demo\Wep Api Demo\bin\System.Web.Http.Cors.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\ApplicationInsights.config
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\roslyn\csc.exe
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\roslyn\vbc.exe
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\Wep Api Demo.dll.config
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\Wep Api Demo.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\Wep Api Demo.pdb
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\EntityFramework.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\EntityFramework.SqlServer.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\Microsoft.AI.Web.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\Newtonsoft.Json.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\System.Net.Http.Formatting.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\System.Web.Cors.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\System.Web.Http.Cors.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\System.Web.Http.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\System.Web.Http.WebHost.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\Thinktecture.IdentityModel.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\EntityFramework.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\EntityFramework.SqlServer.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\Microsoft.AI.Web.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\System.Net.Http.Formatting.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\System.Web.Http.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\System.Web.Http.Cors.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\Thinktecture.IdentityModel.pdb
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\Thinktecture.IdentityModel.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\Newtonsoft.Json.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\bin\System.Web.Http.WebHost.xml
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\obj\Debug\Wep Api Demo.csprojResolveAssemblyReference.cache
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\obj\Debug\Wep Api Demo.dll
+C:\Users\Adeel.ahmed\Documents\Visual Studio 2015\Projects\WebApiDemo\Wep Api Demo\obj\Debug\Wep Api Demo.pdb
+C:\Projects\Personal\Demo\Wep Api Demo\obj\Debug\Wep Api Demo.dll
+C:\Projects\Personal\Demo\Wep Api Demo\obj\Debug\Wep Api Demo.pdb
+C:\Projects\Personal\Demo\Wep Api Demo\bin\ApplicationInsights.config
+C:\Projects\Personal\Demo\Wep Api Demo\bin\roslyn\csc.exe
+C:\Projects\Personal\Demo\Wep Api Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\Personal\Demo\Wep Api Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\Personal\Demo\Wep Api Demo\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\roslyn\vbc.exe
+C:\Projects\Personal\Demo\Wep Api Demo\bin\roslyn\VBCSCompiler.exe
+C:\Projects\Personal\Demo\Wep Api Demo\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\Personal\Demo\Wep Api Demo\bin\Wep Api Demo.dll.config
+C:\Projects\Personal\Demo\Wep Api Demo\bin\Wep Api Demo.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\Wep Api Demo.pdb
+C:\Projects\Personal\Demo\Wep Api Demo\bin\EntityFramework.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\EntityFramework.SqlServer.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\Microsoft.AI.Web.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\Newtonsoft.Json.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\System.Net.Http.Formatting.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\System.Web.Cors.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\System.Web.Http.Cors.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\System.Web.Http.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\System.Web.Http.WebHost.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\Thinktecture.IdentityModel.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\EntityFramework.xml
+C:\Projects\Personal\Demo\Wep Api Demo\bin\EntityFramework.SqlServer.xml
+C:\Projects\Personal\Demo\Wep Api Demo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\Personal\Demo\Wep Api Demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\Personal\Demo\Wep Api Demo\bin\Microsoft.AI.Web.xml
+C:\Projects\Personal\Demo\Wep Api Demo\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\Personal\Demo\Wep Api Demo\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\Personal\Demo\Wep Api Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Personal\Demo\Wep Api Demo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Projects\Personal\Demo\Wep Api Demo\bin\System.Net.Http.Formatting.xml
+C:\Projects\Personal\Demo\Wep Api Demo\bin\System.Web.Http.xml
+C:\Projects\Personal\Demo\Wep Api Demo\bin\System.Web.Http.Cors.xml
+C:\Projects\Personal\Demo\Wep Api Demo\bin\Thinktecture.IdentityModel.pdb
+C:\Projects\Personal\Demo\Wep Api Demo\bin\Thinktecture.IdentityModel.xml
+C:\Projects\Personal\Demo\Wep Api Demo\bin\Newtonsoft.Json.xml
+C:\Projects\Personal\Demo\Wep Api Demo\bin\System.Web.Http.WebHost.xml
+C:\Projects\Personal\Demo\Wep Api Demo\obj\Debug\Wep Api Demo.csprojResolveAssemblyReference.cache
+C:\Projects\Personal\Demo\Wep Api Demo\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\Swashbuckle.Core.dll
+C:\Projects\Personal\Demo\Wep Api Demo\bin\WebActivatorEx.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\ApplicationInsights.config
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\roslyn\csc.exe
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\roslyn\vbc.exe
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\Wep Api Demo.dll.config
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\Wep Api Demo.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\Wep Api Demo.pdb
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\EntityFramework.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\EntityFramework.SqlServer.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\Microsoft.AI.Web.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\Newtonsoft.Json.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\Swashbuckle.Core.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\System.Net.Http.Formatting.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\System.Web.Cors.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\System.Web.Http.Cors.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\System.Web.Http.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\System.Web.Http.WebHost.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\Thinktecture.IdentityModel.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\WebActivatorEx.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\EntityFramework.xml
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\EntityFramework.SqlServer.xml
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\Microsoft.AI.Web.xml
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\Newtonsoft.Json.xml
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\System.Net.Http.Formatting.xml
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\System.Web.Http.xml
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\System.Web.Http.Cors.xml
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\Thinktecture.IdentityModel.pdb
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\Thinktecture.IdentityModel.xml
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\bin\System.Web.Http.WebHost.xml
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\obj\Debug\Wep Api Demo.csprojResolveAssemblyReference.cache
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\obj\Debug\Wep Api Demo.dll
+C:\Users\Adeel.ahmed\Source\Repos\Web-API-Demo\Wep Api Demo\obj\Debug\Wep Api Demo.pdb
